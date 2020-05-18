@@ -1,0 +1,13 @@
+Insert into economic values(202025,'2018-12-31 00:00:00',99.0,null,null,1,'BM','BMU',null);
+Insert into economic values(202055,'2016-12-31 00:00:00',77.04268,null,null,1,'CD','COD',null);
+Insert into economic values(202068,'2017-12-31 00:00:00',71.16825,null,null,1,'EG','EGY',null);
+Insert into economic values(202075,'2018-12-31 00:00:00',99.0,null,null,1,'FO','FRO',null);
+Insert into economic values(202083,'2015-12-31 00:00:00',50.77797,null,null,1,'GM','GMB',null);
+Insert into economic values(202089,'2018-12-31 00:00:00',99.0,null,null,1,'GL','GRL',null);
+Insert into economic values(202111,'2018-12-31 00:00:00',99.0,null,null,1,'IM','IMN',null);
+Insert into economic values(202108,'2016-12-31 00:00:00',85.54425,null,null,1,'IR','IRN',null);
+Insert into economic values(202129,'2018-12-31 00:00:00',99.0,null,null,1,'LI','LIE',null);
+Insert into economic values(202256,'2016-12-31 00:00:00',96.53849,null,null,1,'MO','MAC',null);
+Insert into economic values(202080,'2018-12-31 00:00:00',99.0,null,null,1,'PF','PYF',null);
+Insert into economic values(202244,'2016-12-31 00:00:00',97.12709,null,null,1,'VE','VEN',null);
+Insert into economic values(202036,'2018-12-31 00:00:00',99.0,null,null,1,'VI','VIR',null);
